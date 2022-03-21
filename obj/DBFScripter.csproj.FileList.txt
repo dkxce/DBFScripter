@@ -1,0 +1,7 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\DBFScripter.exe
+bin\Debug\DBFScripter.pdb
+obj\Debug\DBFScripter.exe
+obj\Debug\DBFScripter.pdb
+obj\Debug\DBFScripter.csproj.GenerateResource.Cache
+obj\Debug\DBFScripter.SelectScript.resources

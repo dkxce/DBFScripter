@@ -1,0 +1,6 @@
+obj\Debug\ResolveAssemblyReference.cache
+bin\Debug\POIConsole.exe
+bin\Debug\POIConsole.pdb
+obj\Debug\POIConsole.exe
+obj\Debug\POIConsole.pdb
+bin\Debug\ICSharpCode.SharpZipLib.dll

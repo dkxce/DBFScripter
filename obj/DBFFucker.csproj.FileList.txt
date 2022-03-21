@@ -1,0 +1,5 @@
+bin\Debug\DBFFucker.exe
+bin\Debug\DBFFucker.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\DBFFucker.exe
+obj\Debug\DBFFucker.pdb
